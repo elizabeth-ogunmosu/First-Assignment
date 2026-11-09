@@ -1,4 +1,4 @@
-# Elizabeth_Ogunmosu
+# First Assignment
 # 1. Overview
 This project is a single-page HTML application with embedded JavaScript that demonstrates numerical integration using the Trapezoidal Rule and Simpson's Rule. The application allows a user to select a predefined mathematical function, define the integration interval 
 [a,b], and set a desired accuracy (tolerance).
